@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733844502 source:d:\codeblockspro\file_transfer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<sys/stat.h>
+
